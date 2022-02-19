@@ -109,6 +109,9 @@ grow.
 
     * - Intel® Core™ i5-6260U processor
       - NUC6I5SYH
+      
+    * - Intel® Core™ i5-7200U processoe
+      - HP Pavilion x360 Convertible
 
 *Intel, Celeron, Xeon, Intel Atom, and Intel Core are trademarks of Intel
 Corporation or its subsidiaries.*
